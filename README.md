@@ -6,7 +6,6 @@
 ボトルフリップを100％成功させてしまうマニュピレーターです。
 *  ボトルフリップ：重りをつけたペットボトルを投げて立たせるゲームです。
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/JVvSQk8" data-context="false" ><a href="//imgur.com/a/JVvSQk8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ---
