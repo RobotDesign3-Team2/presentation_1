@@ -3,11 +3,13 @@
 
 ---
 ## 1.説明
+<p>
+ <img src="https://i.imgur.com/XcuqVc7.png" align="bottom" width="400">
+ <br>
 マニュピレータに筆ペンで字を書かせます
 今年の漢字はまだ発表されていないので,とりあえずは今話題の｢**コロナ**｣で
-
-<img src="https://i.imgur.com/XcuqVc7.png" align="bottom" width="500">
-
+<br clear="right">
+ </p>
 ---
 ## 2.何が面白い？？？
 
@@ -22,7 +24,7 @@
 * 筆ペン(許可が出れば習字セットで書きたい)
 * 紙
 * Real SenseD435(使えたら)
-
+<img src="https://i.imgur.com/Cr3NGGQ.png" align="bottom" width="300">
 
 ---
 ## 4.システム構成
