@@ -6,7 +6,7 @@
 マニュピレータに筆ペンで字を書かせます
 今年の漢字はまだ発表されていないので,とりあえずは今話題の｢**コロナ**｣で
 
-<img src="https://i.imgur.com/XcuqVc7.png" align="right" width="500">
+<img src="https://i.imgur.com/XcuqVc7.png" align="bottom" width="500">
 
 ---
 ## 2.何が面白い？？？
