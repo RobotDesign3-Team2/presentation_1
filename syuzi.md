@@ -5,8 +5,8 @@
 ## 1.説明
 
 マニュピレータに筆ペンで字を書かせます
-書かせるキーワードとしては今年何かと話題になった｢***コロナ***｣で
- <img src="https://i.imgur.com/XcuqVc7.png" align="bottom" width="400">
+書かせるキーワードとしては今年何かと話題になった｢**コロナ**｣で
+ <img src="https://i.imgur.com/XcuqVc7.png" width="400">
 
 ---
 ## 2.何が面白い？？？
