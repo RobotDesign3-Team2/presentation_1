@@ -25,7 +25,6 @@
 * crane_x7
 * 筆ペン(許可が出れば習字セットで書きたい)
 * 紙
-* Real SenseD435(使えたら)
 <img src="https://i.imgur.com/Cr3NGGQ.png" align="bottom" width="300">
 
 ---
