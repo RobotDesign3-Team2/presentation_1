@@ -52,7 +52,7 @@
 
 
 
-<img src="https://i.imgur.com/8QUdRv8.png "align="bottom" >
+<img src="https://i.imgur.com/8QUdRv8.png"　align="bottom" >
 ---
 ## 考えられる問題と対処について
  * 筆ペンの持ち手が丸くて掴みづらいのでは??　→　マニュピレータのハンド部分にゴム手袋をつけ滑りづらくし、ペンの持ち手を四角くするパーツを作成する。
